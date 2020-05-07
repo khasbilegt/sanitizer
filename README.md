@@ -8,7 +8,9 @@ Sanitizer is a Python library for dealing with duplicated training data
 poetry run sanitizer
 ```
 
-![Result](https://raw.githubusercontent.com/khasbilegt/sanitizer/master/assets/result.png)
+## Result
+
+<img src="assets/result.png" width="100%">
 
 ## Contributing
 
