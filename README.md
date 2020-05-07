@@ -4,13 +4,21 @@ Sanitizer is a Python library for dealing with duplicated training data. It util
 
 ## Usage
 
+What you have to do first is to change `labels.json` and `config.json` files to your needs.
+
+`labels.json` - This contains the input folder names as _key_ and their related _id_, ascii _symbol_ as _value_ in json format.
+
+`config.json` - This holds _symbol_ values from `labels.json` as _key_ and result folder name as _value_ in json format.
+
 ```bash
 poetry run sanitizer
 ```
 
-## Result
+## Screenshots
 
-<img src="assets/result.png" width="100%">
+<img src="assets/input.png" width="31%">
+<img src="assets/result.png" width="36%">
+<img src="assets/output.png" width="31%">
 
 ## Contributing
 
