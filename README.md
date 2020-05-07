@@ -1,6 +1,6 @@
 # Sanitizer
 
-Sanitizer is a Python library for dealing with duplicated training data. It utilizes a module that is added in Python 3, called concurrent.futures to minimizes the time that is needed for the general process.
+**Sanitizer** is a Python library for dealing with duplicated training data. It utilizes a module that is added in **Python 3**, called `concurrent.futures` to minimizes the time that is needed for the general process.
 
 ## Usage
 
@@ -16,9 +16,9 @@ poetry run sanitizer
 
 ## Screenshots
 
-<img src="assets/input.png" width="31%">
-<img src="assets/result.png" width="36%">
-<img src="assets/output.png" width="31%">
+<img src="assets/input.png" width="100%">
+<img src="assets/result.png" width="100%">
+<img src="assets/output.png" width="100%">
 
 ## Contributing
 
